@@ -1,9 +1,0 @@
-concept be mental representation abstract object or ability that make up the fundamental building block of thought and belief they play a important role in all aspect of cognition 
-in contemporary philosophy there be at least three prevailing way to understand what a concept be 
-�	concept as mental representation where concept be entity that exist in the mind mental object 
-�	concept as ability where concept be ability peculiar to cognitive agent mental state 
-�	concept as fregean sense see sense and reference where concept be abstract object as oppose to mental object and mental states
-concept can be organize into a hierarchy high level of which be term "superordinate" and lower level term "subordinate" additionally there be the "basic" or "middle" level at which people will most readily categorize a concept for example a basic-level concept would be "chair" with its superordinate "furniture" and its subordinate "easy chair" 
-a concept be instantiate reify by all of its actual or potential instance whether these be thing in the real world or other idea 
-concept be study as component of human cognition in the cognitive science discipline of linguistics psychology and philosophy where a ongoing debate ask whether all cognition must occur through concept concept be use as formal tool or model in mathematics computer science database and artificial intelligence where they be sometimes call class schema or category in informal use the word concept often just mean any idea 
- 
